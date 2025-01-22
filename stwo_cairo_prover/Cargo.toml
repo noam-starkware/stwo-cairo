@@ -6,6 +6,7 @@ members = [
     "crates/cairo-serialize-derive",
     "crates/utils",
     "crates/run_and_prove",
+    "crates/run_opcodes",
     "crates/vm_runner",
     "crates/prover_types",
     "crates/air_structs_derive",
